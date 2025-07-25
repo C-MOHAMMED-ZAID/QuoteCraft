@@ -18,6 +18,13 @@ This project is part of my personal learning journey. It’s my **second self-bu
 | 💡 Dynamic UI         | Inject quote text and author dynamically using DOM manipulation |
 | 📱 Responsive Design  | Looks clean and functional on both mobile and desktop screens |
 
+
+---
+
+## 🔗 Live Demo
+
+Check here => https://c-mohammed-zaid.github.io/QuoteCraft/
+
 ---
 
 ## 🧠 Tech Stack
@@ -72,11 +79,6 @@ quotecraft/
 - Writing readable, maintainable JS code
 - Designing a clean, centered, and interactive UI
 
----
-
-## 🔗 Live Demo
-
-Check here => https://c-mohammed-zaid.github.io/QuoteCraft/
 
 ---
 
