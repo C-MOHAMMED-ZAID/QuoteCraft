@@ -29,6 +29,17 @@ This project is part of my personal learning journey. It’s my **second self-bu
 
 ---
 
+⚠️ Note: For security reasons, the API key is not included in the repo.
+To use the project:
+
+Sign up at https://api-ninjas.com/api/quotes
+
+Generate your API key.
+
+Paste it in script.js where it says const X-Api-Key = 'YOUR_API_KEY_HERE';
+
+---
+
 ## 📁 Folder Structure
 
 quotecraft/
